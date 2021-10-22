@@ -1,9 +1,8 @@
-
 public class MoreArraysTest {
 
 	public static void main(String[] args) {
-		MoreArrays moreArrays = new MoreArrays();
-		String[] names = {"Bob", "Fred", "Gabriella", "Mohammed", "Eric", "Xavier", "Albert", "Connor", "Kevin", "Laura"};
+		//MoreArrays moreArrays = new MoreArrays();
+		//String[] names = {"Bob", "Fred", "Gabriella", "Mohammed", "Eric", "Xavier", "Albert", "Connor", "Kevin", "Laura"};
 
 		//task1 test
 		//System.out.println(moreArrays.sortArray(names));
@@ -22,8 +21,7 @@ public class MoreArraysTest {
 		//System.out.println(myArrays.addUpNumbers(numbers));
 			
 		//task 4 test
-		System.out.println(moreArrays.selectWinner(names));
-		System.out.println(moreArrays.selectWinner(names));
-	
+		//System.out.println(moreArrays.selectWinner(names));
+		//System.out.println(moreArrays.selectWinner(names));
 	}
 }
